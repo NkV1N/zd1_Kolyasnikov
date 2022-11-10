@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="FilmsNames">
+        <item>Гол</item>
+        <item>Движение вверх</item>
+        <item>Следуй за мечтой</item>
+        <item>Одна</item>
+        <item>Острох проклятых</item>
+        <item>Пиксели</item>
+        <item>Значит, война!</item>
+    </string-array>
+</resources>
